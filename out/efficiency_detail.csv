@@ -1,0 +1,4 @@
+Model,PretrainTime(min),FinetuneTime(min),InferTime(s/100),Accuracy(%)
+Random Init,,44.23,0.008,46.22
+MAE,0.0,0.81,0.008,8.02
+Rotation,0.0,0.81,0.008,9.08
